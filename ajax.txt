@@ -1,4 +1,4 @@
  <h1>AJAX</h1>
- <>Ajax is not a programing language
+ <p>Ajax is not a programing language
  AJAX is a technique for accessing web server from web page
  AJAX stands for Asynchronous Javascript And XML </p>
