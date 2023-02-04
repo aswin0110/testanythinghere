@@ -11,6 +11,6 @@ xhttp.onreadystatechange = function(){
     }
 }
 
-xhttp.open("GET", "./ajax.txt" ,true);
+xhttp.open("GET", "ajax.txt" ,true);
 xhttp.send();
 }
